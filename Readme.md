@@ -14,5 +14,5 @@ Use this link to directly import the list to Adblock by Futuremind:
 https://github.com/thetleza96-collab/iOSAdblockList/commit/1dd68f99ea010859a7337bb15e762c294a9928be
 
 Use this link to subscribe to the list in Adguard Pro:
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
+Regular Hosts.txt
 
